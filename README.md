@@ -1,6 +1,6 @@
 # Big Data Analytics with Cloud Platforms
 ### INFO 602 | Virginia Commonwealth University | Spring 2026
-**Student:** Sanjay Narayanan Sankaranarayanan | M.S. Decision Analytics
+**Student:** Sanjay Narayanan Sankaranarayanan | Master's in Decision Analytics
 
 ---
 
